@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.mikarific.carpetthrundlestoneaddition.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "LevelAccessor",
+    "loggers.CollectingNeighborUpdaterMixin_asyncBlockUpdates",
+    "loggers.MonsterRoomFeatureMixin_dungeon",
+    "rules.BlockBehaviorMixin_asyncBeaconUpdates",
+    "rules.CollectingNeighborUpdaterMixin_asyncBeaconUpdates"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
