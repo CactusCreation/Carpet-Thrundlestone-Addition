@@ -1,3 +1,5 @@
+<img src="./src/main/resources/assets/carpet-thrundlestone-addition/icon.png" align="right" width="128px" />
+
 # Carpet Thrundlestone Addition
 
 A Carpet mod ([fabric-carpet](https://github.com/gnembon/fabric-carpet)) extension for performing and testing Thrundlestone.
